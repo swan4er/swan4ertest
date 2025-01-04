@@ -1,0 +1,496 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/669f719e32c9ea42465af181/669f719e32c9ea42465af1c5_youtube.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\669f719e32c9ea42465af181\669f719e32c9ea42465af1c5_youtube.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e3df8d47eb3991ca9dbef7%2F66e53f0bf0ccaa6615d853c3_7679622-hd_1080_1920_25fps-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\66e3df8d47eb3991ca9dbef766e53f0bf0ccaa6615d853c3_7679622-hd_1080_1920_25fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e3df8d47eb3991ca9dbef7%2F66e549034a3c1a3ac3603826_7679618-hd_1080_1920_25fps-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\66e3df8d47eb3991ca9dbef766e549034a3c1a3ac3603826_7679618-hd_1080_1920_25fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e3df8d47eb3991ca9dbef7%2F66e5500c4a3c1a3ac366692f_7678101-hd_1920_1080_25fps-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\66e3df8d47eb3991ca9dbef766e5500c4a3c1a3ac366692f_7678101-hd_1920_1080_25fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e5258893f281dac24798b8/66e591b1687a40d3036b75fd_Team4.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\66e5258893f281dac24798b8\66e591b1687a40d3036b75fd_Team4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e5258893f281dac24798b8/66f285c8c9ddacb69bf5c443_bill.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\66e5258893f281dac24798b8\66f285c8c9ddacb69bf5c443_bill.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c63_Sticker-Mockup.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c63_Sticker-Mockup.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c67_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c67_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c68_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c68_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c69_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c69_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c6a_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c6a_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c71_arrow_outward.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c71_arrow_outward.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c76_instagram-p-500.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c76_instagram-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c76_instagram.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c76_instagram.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c88_tiktok-p-500.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c88_tiktok-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c88_tiktok.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c88_tiktok.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470c8f_Circle.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470c8f_Circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470ca9_signal_cellular_alt.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470ca9_signal_cellular_alt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470caa_nearby.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470caa_nearby.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cab_double_arrow.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cab_double_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cac_azm.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cac_azm.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cae_check_circle.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cae_check_circle.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470caf_charger.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470caf_charger.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cb1_logowithname1.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cb1_logowithname1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cb2_logowithname3.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cb2_logowithname3.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cb3_logowithname2.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cb3_logowithname2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cb4_load.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cb4_load.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470ccb_ArrowSide.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470ccb_ArrowSide.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470ccc_img_MoxC.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470ccc_img_MoxC.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cce_img_iGHa.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cce_img_iGHa.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cd4_add.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cd4_add.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cd7_img_CTJ4.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cd7_img_CTJ4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470ceb_img_l3iO.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470ceb_img_l3iO.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cf2_img_zOC2.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cf2_img_zOC2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470cf4_img_NKZ0.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470cf4_img_NKZ0.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0b_7679622-hd_1080_1920_25fps-transcode.mp4
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0b_7679622-hd_1080_1920_25fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0b_7679622-hd_1080_1920_25fps-transcode.webm
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0b_7679622-hd_1080_1920_25fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0c_7679618-hd_1080_1920_25fps-transcode.mp4
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0c_7679618-hd_1080_1920_25fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0c_7679618-hd_1080_1920_25fps-transcode.webm
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0c_7679618-hd_1080_1920_25fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0d_7678101-hd_1920_1080_25fps-transcode.mp4
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0d_7678101-hd_1920_1080_25fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0d_7678101-hd_1920_1080_25fps-transcode.webm
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0d_7678101-hd_1920_1080_25fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0e_img_vAqs.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0e_img_vAqs.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d0f_img_WidR.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d0f_img_WidR.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d11_img_B2yx.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d11_img_B2yx.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d19_youtubeicon-p-500.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d19_youtubeicon-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d19_youtubeicon.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d19_youtubeicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d56_Img-1.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d56_Img-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d57_Hero.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d57_Hero.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d5c_Jacob.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d5c_Jacob.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d5d_Jane.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d5d_Jane.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d62_img_UdQP.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d62_img_UdQP.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d64_img_jnCf.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d64_img_jnCf.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d65_svg_BEMF.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d65_svg_BEMF.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d66_svg_ZSZ9.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d66_svg_ZSZ9.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d69_svg_cnHJ.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d69_svg_cnHJ.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d6b_svg_iWgg.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d6b_svg_iWgg.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d6c_svg_oT2u.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d6c_svg_oT2u.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d72_svg_SrSP.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d72_svg_SrSP.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d73_svg_EL71.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d73_svg_EL71.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d74_svg_hCHG.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d74_svg_hCHG.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d75_svg_BKz3.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d75_svg_BKz3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d76_svg_sTMW.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d76_svg_sTMW.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d7b_WLTH Thin.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d7b_WLTH Thin.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d7b_WLTH%2520Thin-p-500.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d7b_WLTH%20Thin-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d7b_WLTH%2520Thin-p-800.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d7b_WLTH%20Thin-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d7c_Top Left.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d7c_Top Left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d7d_Bottom Left.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d7d_Bottom Left.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d7f_Bottom Right .svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d7f_Bottom Right .svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d80_Top Left Long.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d80_Top Left Long.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d81_Bottom Left Long.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d81_Bottom Left Long.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d82_Bottom Right Dark.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d82_Bottom Right Dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d93_Top Left Long Dark.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d93_Top Left Long Dark.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d95_Top Right Mid.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d95_Top Right Mid.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d97_Bottom Left Mid.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d97_Bottom Left Mid.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d99_Wealth.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d99_Wealth.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d9a_svg_2ltJ.svg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d9a_svg_2ltJ.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d9b_Webclip.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d9b_Webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/6779768fa17dc0ede2470d9c_Favicon.png
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\6779768fa17dc0ede2470d9c_Favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/css/dallass-dandy-site-05027a.webflow.94c915cc9.css
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\css\dallass-dandy-site-05027a.webflow.94c915cc9.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470bd1/js/webflow.d1a03f874c39981a5c3db7c5cf22b034.js
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470bd1\js\webflow.d1a03f874c39981a5c3db7c5cf22b034.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c4f_Team3.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c4f_Team3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c50_Team1.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c50_Team1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c51_blog 1.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c51_blog 1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c51_blog%25201-p-1080.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c51_blog%201-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c51_blog%25201-p-500.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c51_blog%201-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c51_blog%25201-p-800.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c51_blog%201-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c52_blog 6.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c52_blog 6.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c52_blog%25206-p-1080.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c52_blog%206-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c52_blog%25206-p-500.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c52_blog%206-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c52_blog%25206-p-800.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c52_blog%206-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c53_blog 5.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c53_blog 5.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c53_blog%25205-p-1080.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c53_blog%205-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c53_blog%25205-p-500.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c53_blog%205-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c53_blog%25205-p-800.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c53_blog%205-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c54_blog 2.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c54_blog 2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c54_blog%25202-p-1080.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c54_blog%202-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c54_blog%25202-p-500.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c54_blog%202-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c54_blog%25202-p-800.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c54_blog%202-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c55_Team2.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c55_Team2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c56_Team5.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c56_Team5.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c57_Team4.jpg
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c57_Team4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c58_Coins-p-1080.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c58_Coins-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c58_Coins-p-500.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c58_Coins-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c58_Coins-p-800.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c58_Coins-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6779768fa17dc0ede2470c48/6779768fa17dc0ede2470c58_Coins.webp
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\6779768fa17dc0ede2470c48\6779768fa17dc0ede2470c58_Coins.webp
+Content Type: image/webp
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6779768fa17dc0ede2470bd1
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/about
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/blog
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/contact
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/post/how-much-money-should-i-save
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\post\how-much-money-should-i-save.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/post/how-should-i-get-started-with-investing
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\post\how-should-i-get-started-with-investing.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/post/how-to-diversify-your-portfolio
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\post\how-to-diversify-your-portfolio.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/post/investing-starters-advice-101
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\post\investing-starters-advice-101.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/post/managing-your-money-as-a-couple
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\post\managing-your-money-as-a-couple.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/post/whats-your-investment-return
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\post\whats-your-investment-return.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/privacy-policy
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\privacy-policy.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/services
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\services.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/terms-conditions
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\terms-conditions.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/utilties/changelog
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\utilties\changelog.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/utilties/instructions
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\utilties\instructions.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/utilties/licenses
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\utilties\licenses.html
+Content Type: text/html
+
+Uri: https://dallass-dandy-site-05027a.webflow.io/utilties/style-guide
+File Name: C:\Downloaded Web Sites\dallass-dandy-site-05027a.webflow.io\utilties\style-guide.html
+Content Type: text/html
+
